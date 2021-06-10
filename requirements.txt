@@ -1,6 +1,6 @@
 certifi==2017.11.5
 chardet==3.0.4
-Django==1.11.7
+Django==2.2.24
 django-pagination==1.0.7
 idna==2.6
 PyMySQL==0.7.11
